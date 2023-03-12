@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-07 14:32+0000\n"
-"PO-Revision-Date: 2023-03-12 22:20+0700\n"
+"PO-Revision-Date: 2023-03-12 22:40+0700\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: \n"
 "Language: vi\n"
@@ -326,114 +326,96 @@ msgstr[0] "%{name} tiêu diet một nửa quân địch!"
 msgstr[1] "%{name} знищує половину ворожого загону!"
 msgstr[2] "%{name} знищує половину ворожого загону!"
 
-#, fuzzy
 msgid "%{name} has turned off the auto battle"
-msgstr "%{name} вимкнув автобій"
+msgstr "%{name} đã tắt tự động đấu"
 
-#, fuzzy
 msgid "%{name} has turned on the auto battle"
-msgstr "%{name} увімкнув автобій"
+msgstr "%{name} đã mở tự động đấu"
 
-#, fuzzy
 msgid "Spell failed!"
-msgstr "Чари не спрацювали!"
+msgstr "Bùa chú thất bại!"
 
 msgid ""
 "The Sphere of Negation artifact is in effect for this battle, disabling all "
 "combat spells."
 msgstr ""
+"Cổ vật Quả Cầu Phủ Định ảnh hưởng trận đấu, vô hiệu bùa chú trong trận chiến."
 
-#, fuzzy
 msgid "You have already cast a spell this round."
-msgstr "Ви вже використали чари протягом цього ходу."
+msgstr "Bạn vừa sử dụng bùa chú vòng này rồi."
 
-#, fuzzy
 msgid "That spell will affect no one!"
-msgstr "Ці чари ні на кого не подіють!"
+msgstr "Không có ai ảnh hưởng bùa chú!"
 
-#, fuzzy
 msgid "You may only summon one type of elemental per combat."
-msgstr "Ви можете викликати елементалів тільки одного типу в цій битві."
+msgstr "Chỉ có thể triệu hồi một loại nguyên tố trong trận."
 
-#, fuzzy
 msgid "There is no open space adjacent to your hero to summon an Elemental to."
-msgstr "Недостатньо місця поряд з вашим героєм для виклику Елементаля."
+msgstr "Không có ô trống gần anh hùng để triệu hồi tinh linh."
 
-#, fuzzy
 msgid ""
 "The Moat reduces by -%{count} the defense skill of any unit and slows to "
 "half movement rate."
 msgstr ""
-"Рів зменшує захисну здатність будь-якого підрозділу на -%{count} і "
-"сповільнює його вдвічі."
+"Kênh rạch làm giảm -%{count} phòng ngự của bất kỳ đơn vị nào và làm chậm một "
+"nửa số bước đi."
 
-#, fuzzy
 msgid "Speed: %{speed}"
-msgstr "Швидкість: %{speed}"
+msgstr "Tốc độ: %{speed}"
 
-#, fuzzy
 msgid "Speed"
-msgstr "Швидкість"
+msgstr "Tốc độ"
 
-#, fuzzy
 msgid "Army Order"
-msgstr "Черговість армій"
+msgstr "Quân Lệnh"
 
-#, fuzzy
 msgid "Off"
-msgstr "Вимк."
+msgstr "Tắt"
 
-#, fuzzy
 msgid "On"
-msgstr "Увімк."
+msgstr "Bật"
 
-#, fuzzy
 msgid "Auto Spell Casting"
-msgstr "Автоматичне чаклування"
+msgstr "Tự động dùng bùa chú"
 
-#, fuzzy
 msgid "Grid"
-msgstr "Сітка"
+msgstr "Tạo lưới"
 
-#, fuzzy
 msgid "Shadow Movement"
-msgstr "Тінь під час руху"
+msgstr "Bóng bước chân"
 
-#, fuzzy
 msgid "Shadow Cursor"
-msgstr "Тінь курсора"
+msgstr "Bóng chuột trỏ"
 
 msgid "Audio"
-msgstr ""
+msgstr "Âm thanh"
 
 msgid "Settings"
-msgstr ""
+msgstr "Điều chỉnh"
 
 msgid "Configure"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "Hot Keys"
-msgstr ""
+msgstr "Phím tắt"
 
 msgid "Damage Info"
-msgstr ""
+msgstr "Tin tức sát thương"
 
-#, fuzzy
 msgid "Set the speed of combat actions and animations."
-msgstr "Встановити швидкість бойових дій та анімації."
+msgstr "Sửa tốc độ chiến đấu và hình động."
 
-#, fuzzy
 msgid "Toggle to display army order during the battle."
-msgstr "Чи показувати черговість армій під час битви."
+msgstr "Hiện thị thứ tự hành động binh lính trong trận đấu."
 
-#, fuzzy
 msgid ""
 "Toggle whether or not the computer will cast spells for you when auto combat "
 "is on. (Note: This does not affect spell casting for computer players in any "
 "way, nor does it affect quick combat.)"
 msgstr ""
-"Чи буде комп'ютер використовувати чари коли увімкнений автобій. (Пам'ятка: "
-"Це ніяк не впливає на виклик чар гравцем-комп'ютером чи режим автобою)"
+"Hiện thi máy tính có sử dụng bùa chú cho bạn khi bật chế độ tự động đấu hay "
+"không. (Lưu ý: Điều này không ảnh hưởng đến bùa chú của CPU, cũng như không "
+"ảnh hưởng đến đấu nhanh.)"
 
 #, fuzzy
 msgid ""
