@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-07 14:32+0000\n"
-"PO-Revision-Date: 2023-03-10 00:04+0700\n"
+"PO-Revision-Date: 2023-03-12 22:20+0700\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: \n"
 "Language: vi\n"
@@ -305,30 +305,24 @@ msgstr "Kéo %{name} hoặc nhấp chuột phải để chia"
 msgid "Combine %{name} armies"
 msgstr "Gộp binh lính %{name}"
 
-#, fuzzy
 msgid "Exchange %{name2} with %{name}"
-msgstr "Обміняти %{name2} на %{name}"
+msgstr "Trao đổi %{name2} với %{name}"
 
-#, fuzzy
 msgid "Select %{name}"
-msgstr "Вибрати %{name}"
+msgstr "Lựa chọn %{name}"
 
-#, fuzzy
 msgid "Cannot move last troop"
-msgstr "Не вдалось перемістити останній загін"
+msgstr "Không thể bỏ tối thiếu một lính"
 
-#, fuzzy
 msgid "Move the %{name}"
-msgstr "Найняти: %{name}"
+msgstr "Di chuyển: %{name}"
 
-#, fuzzy
 msgid "Set Count"
-msgstr "Кількість"
+msgstr "Cho số lượng"
 
-#, fuzzy
 msgid "%{name} destroys half the enemy troops!"
 msgid_plural "%{name} destroy half the enemy troops!"
-msgstr[0] "%{name} знищує половину ворожого загону!"
+msgstr[0] "%{name} tiêu diet một nửa quân địch!"
 msgstr[1] "%{name} знищує половину ворожого загону!"
 msgstr[2] "%{name} знищує половину ворожого загону!"
 
